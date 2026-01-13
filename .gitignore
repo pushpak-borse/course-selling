@@ -1,0 +1,9 @@
+# Exclude the 'another pages' folder and all its contents
+another pages/
+
+# Common files to ignore
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*~
