@@ -2032,7 +2032,7 @@ input[type="color"] {
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  padding-top: 75px;
+  padding-top: 130px;
   padding-bottom: 75px;
   background-color: var(--it-gray-3);
 }
@@ -27556,3 +27556,10 @@ input[type="radio"] {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+
+
+/* custom css  */
+.it-brand-area{
+  background-color: #f0f4f5;
+}
