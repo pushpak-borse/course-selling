@@ -6,6 +6,7 @@
 	// 01. PreLoader Js
 	$(window).on('load',function () {
 		$('#it-loading').fadeOut(500);
+		window.it_loader_initialized = true;
 	});
 
 	// 08. Nice Select Js

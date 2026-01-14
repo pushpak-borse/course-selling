@@ -27467,7 +27467,7 @@ input[type="radio"] {
   line-height: 1;
   color: var(--it-common-white);
   /* background-color: var(--it-text-body); */
-  background-color: #26b69a;  
+  background-color: var(--it-theme-1);
   border: 1px solid rgba(26, 182, 157, 0.3);
 }
 @media (max-width: 767px) {
