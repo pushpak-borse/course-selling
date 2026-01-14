@@ -1,63 +1,11 @@
 @charset "UTF-8";
-/*-----------------------------------------------------------------------------------
-
-    Theme Name: Educeet --Online Education & Courses
-    Author: Ordianit
-    Support:ordianit@gmail.com
-    Description: Educeet --Online Education & Courses
-    Version: 1.0.0
-
------------------------------------------------------------------------------------
-
-/************ TABLE OF CONTENTS ***************
-
-    01. Theme default css 
-    02. about css start
-    03. activities css start
-    04. banner css start
-    05. blog-sidebar css start
-    06. blog css start
-    07. brand css start
-    08. campus css start
-    09. career css start
-    10. cart css start
-    11. categories css start
-    12. Checkout css start
-    13. choose css start
-    14. contact css start
-    15. course css start
-    16. cta css start
-    17. error css start
-    18. event css start
-    19. faq css start
-    20. feature css start
-    21. footer css start
-    22. funfact css start
-    23. gallery css start
-    24. header css start
-    25. hero css start
-    26. language css start
-    27. menu css start
-    28. newsletter css start
-    29. policy css start
-    30. portfolio css start
-    31. price css start
-    32. shop css start
-    33. contact css start
-    34. slider css start
-    35. social css start
-    36. stats css start
-    37. team css start
-    38. testimonial css start
-    39. text slider css start
-    40. tuition css start
-    41. video css start
-    42. zoom-metting css start
+/*-----------------------------------------------------------------------------------*/
 
 
-    **********************************************/
+
+   
 /*----------------------------------------*/
-/* 01. THEME DEFAULT CSS START
+/* 01. THEME DEFAULT CSS START */
 /*----------------------------------------*/
 @import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Schoolbell&family=Cinzel+Decorative:wght@400;700;900&family=Oxanium:wght@200..800&display=swap");
 @font-face {
@@ -1762,7 +1710,7 @@ input[type="color"] {
   visibility: visible;
 }
 .body-overlay:hover {
-  cursor: url(https://ordainit.com/html/educeet/educeet/assets/img/cross-out.png),
+  cursor: url(https://ordainit.com/html/RiseArc/RiseArc/assets/img/cross-out.png),
     pointer;
 }
 
@@ -4837,33 +4785,33 @@ a.ui-button:active {
 .ui-icon,
 .ui-widget-content .ui-icon,
 .ui-widget-header .ui-icon {
-  background-image: url("https://ordainit.com/html/educeet/educeet/assets/css/images/ui-icons_444444_256x240.png");
+  background-image: url("https://ordainit.com/html/RiseArc/RiseArc/assets/css/images/ui-icons_444444_256x240.png");
 }
 
 .ui-button:focus .ui-icon,
 .ui-button:hover .ui-icon,
 .ui-state-focus .ui-icon,
 .ui-state-hover .ui-icon {
-  background-image: url("https://ordainit.com/html/educeet/educeet/assets/css/images/ui-icons_555555_256x240.png");
+  background-image: url("https://ordainit.com/html/RiseArc/RiseArc/assets/css/images/ui-icons_555555_256x240.png");
 }
 
 .ui-button:active .ui-icon,
 .ui-state-active .ui-icon {
-  background-image: url("https://ordainit.com/html/educeet/educeet/assets/css/images/ui-icons_ffffff_256x240.png");
+  background-image: url("https://ordainit.com/html/RiseArc/RiseArc/assets/css/images/ui-icons_ffffff_256x240.png");
 }
 
 .ui-button .ui-state-highlight.ui-icon,
 .ui-state-highlight .ui-icon {
-  background-image: url("https://ordainit.com/html/educeet/educeet/assets/css/images/ui-icons_777620_256x240.png");
+  background-image: url("https://ordainit.com/html/RiseArc/RiseArc/assets/css/images/ui-icons_777620_256x240.png");
 }
 
 .ui-state-error .ui-icon,
 .ui-state-error-text .ui-icon {
-  background-image: url("https://ordainit.com/html/educeet/educeet/assets/css/images/ui-icons_cc0000_256x240.png");
+  background-image: url("https://ordainit.com/html/RiseArc/RiseArc/assets/css/images/ui-icons_cc0000_256x240.png");
 }
 
 .ui-button .ui-icon {
-  background-image: url("https://ordainit.com/html/educeet/educeet/assets/css/images/ui-icons_777777_256x240.png");
+  background-image: url("https://ordainit.com/html/RiseArc/RiseArc/assets/css/images/ui-icons_777777_256x240.png");
 }
 
 .ui-icon-blank {
@@ -27518,7 +27466,8 @@ input[type="radio"] {
   display: inline-block;
   line-height: 1;
   color: var(--it-common-white);
-  background-color: var(--it-text-body);
+  /* background-color: var(--it-text-body); */
+  background-color: #26b69a;  
   border: 1px solid rgba(26, 182, 157, 0.3);
 }
 @media (max-width: 767px) {
