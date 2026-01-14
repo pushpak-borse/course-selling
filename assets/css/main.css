@@ -1,10 +1,10 @@
 @charset "UTF-8";
 /*-----------------------------------------------------------------------------------
 
-    Theme Name: Educeet -- Online Education & Courses Template
+    Theme Name: Educeet --Online Education & Courses
     Author: Ordianit
     Support:ordianit@gmail.com
-    Description: Educeet -- Online Education & Courses Template
+    Description: Educeet --Online Education & Courses
     Version: 1.0.0
 
 -----------------------------------------------------------------------------------
@@ -2038,7 +2038,7 @@ input[type="color"] {
 }
 @media (max-width: 767px) {
   .it-breadcrumb-area {
-    padding-top: 80px;
+    padding-top: 115px;
     padding-bottom: 50px;
   }
 }
@@ -2208,7 +2208,8 @@ input[type="color"] {
 .it-breadcrumb-author-info span:last-child {
   margin-top: 8px;
   font-size: 18px;
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(0, 0, 0, 0.8);
+  /* color: rgba(255, 255, 255, 0.8); */
   font-family: var(--it-ff-spartan-medium);
 }
 .it-breadcrumb-author-wrapper {
